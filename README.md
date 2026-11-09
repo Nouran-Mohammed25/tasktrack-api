@@ -13,3 +13,4 @@ reproducible environment that runs identically on any machine.
 ### 1. Build the image:
 ```bash
 docker build --load -t tasktrack-api .
+Status: Docker containerization complete and tested.
